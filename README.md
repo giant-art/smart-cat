@@ -12,9 +12,9 @@ The focus of this project is **AI project planning and management**.
 
 ## 🎯 Project Objectives
 - **Apply** project management principles to an AI-based environment.
-- **Demonstrate** proficiency in all Project Management Process Groups (PMBOK).
+- **Demonstrate** proficiency in all Project Management Process Groups.
 - **Practice** team collaboration and version control using GitHub.
-- **Produce** structured documentation (MS Project, Word, PowerPoint).
+- **Produce** structured documentation.
 
 ---
 
