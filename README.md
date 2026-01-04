@@ -20,18 +20,12 @@ The focus of this project is **AI project planning and management**.
 
 ## 🔍 Project Scope
 
-### ✅ In Scope
 - **Project Charter** & Stakeholder Register
 - **Work Breakdown Structure (WBS)**
 - **Project Schedule** & Cost Estimation
 - **Risk, Resource, and Monitoring Plans**
 - **Management Discussions** & Decision Documentation
 - **Final Report** & Presentation materials
-
-### ❌ Out of Scope
-- Model training or deployment
-- Application/Software development
-- Data collection and coding implementation
 
 ---
 
@@ -57,4 +51,5 @@ This project strictly follows the **PMBOK Process Groups**:
 ---
 
 ## 👥 Contributors
-- **[Your Name/Team Member]** - Project Manager / Artifact Owner
+- **Mohammad Danial Hakim bin Mohammad Rafai** - Project Manager
+- **Hariz Irfan bin Hasni** - Project Manager
