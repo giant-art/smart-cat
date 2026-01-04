@@ -1,6 +1,6 @@
 # Smart Customer Analysis Tool 🤖
 
-> **AI Project Management (Mock Project)**
+> **AI Project Management**
 > 
 > This repository documents the project management artifacts for an Artificial Intelligence project developed for academic and management purposes.
 
