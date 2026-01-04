@@ -100,8 +100,8 @@ This project follows the **PMBOK Process Groups**:
 
 ## Stakeholders
 - Project Team Members  
-- Course Lecturer / Evaluator  
-- Academic Institution  
+- Organization
+- Customer  
 
 ---
 
