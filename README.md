@@ -52,4 +52,4 @@ This project strictly follows the **PMBOK Process Groups**:
 
 ## 👥 Contributors
 - **Mohammad Danial Hakim bin Mohammad Rafai** - Project Manager
-- **Hariz Irfan bin Hasni** - Project Manager
+- **Hariz Irfan bin Hasni** - Secretary
